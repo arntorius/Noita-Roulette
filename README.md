@@ -1,7 +1,7 @@
 # Noita-Roulette
 A Roulette + Challenge option for spicing up your Noita runs
 
-Noita Roulette Build 03:
+Noita Roulette Build 04:
 Prebuild, download and start the .exe for the application to run 
 (Windowed Fullscreen + application pause when tabbed out)
 
