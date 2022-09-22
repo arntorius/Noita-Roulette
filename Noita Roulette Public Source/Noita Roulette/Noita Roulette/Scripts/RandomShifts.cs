@@ -23,7 +23,7 @@ public class RandomShifts : MonoBehaviour {
     IEnumerator Runner() {
         while (running > 0)
         {
-            TheNumber = Random.Range(1, 12);
+            TheNumber = Random.Range(0, 12);
             TextBox.GetComponent<Text>().text = "" + TheNumber;
             yield return new WaitForSecondsRealtime(0.1f);
         }
